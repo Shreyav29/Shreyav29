@@ -4,7 +4,7 @@ I am Shreya Vontela. I am currently pursuing a masters in financial engineering 
 
 My Portfolio : https://sites.google.com/berkeley.edu/shreya-vontela/home
 
-- 🔭 I’m currently working on Kellogs-Morgan Stanley Sustainable Investment challenge 
+- 🔭 I’m currently working on Kellogg Morgan Stanley Sustainable Investing challenge 
 - 🌱 I’m currently learning Natural Language Processing
 - 👯 I’m looking to collaborate on any projects related to ESG, NLP and Time series analysis 
 - 🤔 I’m looking for help with finding a full time position in Quantitative Finance / Data Science fields
