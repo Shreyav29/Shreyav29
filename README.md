@@ -8,4 +8,4 @@ My Portfolio : https://sites.google.com/berkeley.edu/shreya-vontela/home
 - 🌱 I’m currently learning Natural Language Processing
 - 👯 I’m looking to collaborate on any projects related to ESG, NLP and Time series analysis 
 - 🤔 I’m looking for help with finding a full time position in Quantitative Finance / Data Science fields
-- 📫 How to reach me: Ping me on Whatsapp : 5109881801
+- 📫 How to reach me: shreya_vontela@mfe.berkeley.edu
