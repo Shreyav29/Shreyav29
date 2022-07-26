@@ -1,6 +1,6 @@
 ### Hi friends 👋
 
-I am Shreya Vontela. I am a data scientist and I am always looking to collaborate and work with my fellow machine learning enthusiats. 
+I am Shreya Vontela. I am a data scientist working in credit risk and I am always looking to collaborate and work with my fellow finance/ML enthusiasts. 
 
 My Portfolio : https://sites.google.com/berkeley.edu/shreya-vontela/home
 
