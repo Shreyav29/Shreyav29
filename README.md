@@ -1,4 +1,4 @@
-### Hi friends 👋
+### Hi there 👋, I'm Shreya Vontela!
 
 I am Shreya Vontela. I am a data scientist working in credit risk and I am always looking to collaborate and work with my fellow finance/ML enthusiasts. 
 
